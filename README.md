@@ -35,7 +35,19 @@ Using supervised machine learning regressors to predict attributes (e.g., weight
 #### Models Used:
 - 🔹 Linear Regression  
 - 🌲 Random Forest Regressor  
-- 📈 Gradient Boosting Regressor  
+- 📈 Gradient Boosting Regressor
+
+## 📊 Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis was performed to better understand the dataset and reveal patterns or relationships between features. Key steps included:
+
+- 📌 **Distribution Analysis**: Visualized height, weight, and position distributions using histograms and bar plots.
+- 📌 **Correlation Heatmap**: Used a heatmap to examine correlations between numerical features like height, weight, and career length.
+- 📌 **Scatter Plots**: Analyzed relationships between height and weight, and how they relate to player positions.
+- 📌 **Outlier Detection**: Identified unusual entries or extreme values that could affect model performance.
+
+These insights guided preprocessing choices and helped select relevant features for modeling.
+
 
 ---
 

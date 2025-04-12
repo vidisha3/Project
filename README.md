@@ -49,7 +49,4 @@ Using supervised machine learning regressors to predict attributes (e.g., weight
 | `Matplotlib` / `Seaborn` | Data Visualization  |
 | `Scikit-learn`  | Machine Learning Models          |
 
----
-
-## 🗂️ File Structure
 

@@ -1,4 +1,4 @@
-💡 Project Explanation
+##💡 Project Explanation
 This project focuses on analyzing and understanding data related to professional basketball players using Python. The dataset contains biographical and career-related information such as height, weight, playing position, college, and career span.
 
 🧠 Objectives:

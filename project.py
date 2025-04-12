@@ -32,7 +32,7 @@ sns.histplot(df['Ht_inches'], kde=True)
 plt.title('Distribution of Player Heights')
 plt.xlabel('Height (inches)')
 plt.ylabel('Frequency')
-plt.show()
+plt.show
 
 # 2. Weight vs. Height Scatter Plot
 plt.figure(figsize=(10, 6))
